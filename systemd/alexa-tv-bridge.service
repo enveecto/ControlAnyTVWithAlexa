@@ -1,0 +1,13 @@
+[Unit]
+Description=ControlAnyTVWithAlexa Service
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/ControlAnyTVWithAlexa
+ExecStart=%h/ControlAnyTVWithAlexa/venv/bin/python %h/ControlAnyTVWithAlexa/bridge.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target

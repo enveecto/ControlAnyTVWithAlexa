@@ -1,0 +1,4 @@
+sinricpro>=6.0.0
+adb-shell>=0.4.4
+cryptography>=42.0.0
+rsa>=4.9

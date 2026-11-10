@@ -1,0 +1,8 @@
+{
+  "sinric_app_key": "YOUR_SINRIC_APP_KEY",
+  "sinric_app_secret": "YOUR_SINRIC_APP_SECRET",
+  "sinric_device_id": "YOUR_SINRIC_TV_DEVICE_ID",
+  "tv_host": "192.168.1.50",
+  "tv_port": 5555,
+  "adb_path": "adb"
+}
