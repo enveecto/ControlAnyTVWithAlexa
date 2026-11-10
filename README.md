@@ -92,7 +92,7 @@ Works on any TV or streaming stick running **Android TV** or **Google TV** with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ControlAnyTVWithAlexa.git
+git clone https://github.com/enveecto/ControlAnyTVWithAlexa.git
 cd ControlAnyTVWithAlexa
 
 # Run setup script
